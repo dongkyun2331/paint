@@ -11,6 +11,10 @@ body {
   flex-direction: column;
 }
 
+.tool {
+  display: flex;
+}
+
 .color-container {
   display: flex;
 }
